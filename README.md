@@ -1,2 +1,0 @@
-# Everpages-app
-A blog. 
